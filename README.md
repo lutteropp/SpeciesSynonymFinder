@@ -3,5 +3,6 @@ R script that uses the Catalogue of Life Webservice to collect all synonyms for 
 
 Example usage:
 > findSynonyms("Kluyveromyces thermotolerans")
+
 [[1]]
 [1] "Lachancea thermotolerans"
