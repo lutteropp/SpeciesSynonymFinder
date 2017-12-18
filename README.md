@@ -5,4 +5,5 @@ Example usage:
 > findSynonyms("Kluyveromyces thermotolerans")
 
 [[1]]
+
 [1] "Lachancea thermotolerans"
